@@ -41,6 +41,9 @@ h1{
     cursor: pointer;
 }
 
+.gridItem:hover {
+    background-color: #333333;
+  }
 .buttons{
     display: flex;
     flex-direction: column;
